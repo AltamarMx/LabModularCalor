@@ -5,7 +5,7 @@ Si se cuenta con una conexión a internet inalámbrica, el dispositivo para medi
 
 <img src="https://github.com/AltamarMx/LabModularCalor/blob/main/dispositivos/img/login.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;” width="200px” />
+     width="50%" />
 
 <img src=“” alt=“login” style="width:500px;height:600px;">
 
