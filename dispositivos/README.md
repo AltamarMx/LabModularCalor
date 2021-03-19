@@ -13,4 +13,4 @@ Las piezas del LMTC son:
 4. [**_Dispositivo simplificado para medir temperatura_**](https://github.com/AltamarMx/LabModularCalor/blob/main/dispositivos/d4.md):  Es el dispositivo más fácil y barato de recrear, 
 cuenta con 4 sensores digitales de temperatura pero se pueden agregar más. Solo requiere configurar la red inalámbrica a la que se debe conectar y energizarse por medio de un cable micro USB por medio de una computadora, batería o cargador de celular.
 
-5. **_Plataforma IoT:_** Plataforma IoT disponible previa solicitud, destinado al LMTC. En esta plataforma se pueden dar de alta los dispositivos para que en caso de contar con una conexión a internet, la adquisición y visualización de datos sea más sencilla y se pueda prescindir del primer dispositivo.
+5. [**_Plataforma IoT:_**](https://github.com/AltamarMx/LabModularCalor/blob/main/dispositivos/plataforma.md) Plataforma IoT disponible previa solicitud, destinado al LMTC. En esta plataforma se pueden dar de alta los dispositivos para que en caso de contar con una conexión a internet, la adquisición y visualización de datos sea más sencilla y se pueda prescindir del primer dispositivo.
