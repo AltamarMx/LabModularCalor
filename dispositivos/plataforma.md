@@ -20,5 +20,4 @@ Para tener un tablero se debe solicitar con anticipación y se le hará llegar a
 Si se desea agregar un dispositivo y crear un tablero de visualización, solicitarlo al correo
 gbv(at)ier.unam.mx
 
-Para descargar los datos de la plataforma, descarga [esta](XXX) libreta y ve este video.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HVo-CkrcODo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Para descargar los datos de la plataforma, descarga [esta](XXX) libreta y ve [este](https://youtu.be/HVo-CkrcODo) video.
