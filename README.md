@@ -17,7 +17,7 @@ del mismo tipo o excluirlos para el diseño de un experimento.
 
 Los dispositivos son:
 
-_Dispositivo de adquisición y visualización de datos_: En caso de no contar con internet y una conexión inalámbrica, se puede utilizar este dispositivo para que sirva de adquisición y visualización de datos en tiempo real. Si se cuenta con internet, se puede solicitar la alta del dispositivo al correo gbv@ier.unam.mx para que se proporcione una liga a un tablero de visualización de datos.
+**_Dispositivo de adquisición y visualización de datos_**: En caso de no contar con internet y una conexión inalámbrica, se puede utilizar este dispositivo para que sirva de adquisición y visualización de datos en tiempo real. Si se cuenta con internet, se puede solicitar la alta del dispositivo al correo gbv@ier.unam.mx para que se proporcione una liga a un tablero de visualización de datos.
 
 _Dispositivo para medir temperatura y flujo de calor_: Cuenta con 4 termopares tipo T y un sensor de flujo de calor que envia los datos medidos a una plataforma de IoT que puede ser el dispositivo anterior o una plataforma puesta en línea para este laboratorio. 
 
