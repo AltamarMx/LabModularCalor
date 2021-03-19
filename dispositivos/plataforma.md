@@ -14,4 +14,4 @@ Para tener un tablero se debe solicitar con anticipación y se le hará llegar a
 
 <img src="https://github.com/AltamarMx/LabModularCalor/blob/main/dispositivos/img/dashboards.png"
      alt=“DashBoard”
-     width="50%" />
+     width=“70%" />
