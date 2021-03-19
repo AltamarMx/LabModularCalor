@@ -15,3 +15,9 @@ Para tener un tablero se debe solicitar con anticipación y se le hará llegar a
 <img src="https://github.com/AltamarMx/LabModularCalor/blob/main/dispositivos/img/dashboards.png"
      alt=“Login”
      height=“50%” />
+
+
+Si se desea agregar un dispositivo y crear un tablero de visualización, solicitarlo al correo
+gbv(at)ier.unam.mx
+
+Para descargar los datos de la plataforma, descarga [esta](XXX) libreta y ve este video.
