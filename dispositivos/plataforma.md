@@ -2,7 +2,11 @@
 
 Si se cuenta con una conexión a internet inalámbrica, el dispositivo para medir temperaturas y flujo de calor y el dispositivo simplificado para medir temperaturas, se pueden conectar una plataforma IoT que tenemos disponible para este objetivo.
 
-<img src=“https://github.com/AltamarMx/LabModularCalor/blob/main/dispositivos/img/login.png” alt=“login” style="width:500px;height:600px;">
+
+<img src="https://github.com/AltamarMx/LabModularCalor/blob/main/dispositivos/img/login.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 
 
 ![login](https://github.com/AltamarMx/LabModularCalor/blob/main/dispositivos/img/login.png)
