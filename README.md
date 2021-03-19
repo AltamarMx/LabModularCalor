@@ -1,5 +1,5 @@
 # Laboratorio Modular de Transferencia de Calor
-El LMTC consiste originalmente en tres dispositivos modulares para realizar diversas prácticas en el laboratorio de la materia **Transferencia de calor** o su equivalente. Se ha agregado un dispositivo más que es económico y puede ser armado por cualquier persona con conocimientos básicos de electrónica y programación.
+El  **Laboratorio Modular de Transferencia de Calor** (LMTC) consiste originalmente en tres dispositivos modulares para realizar diversas prácticas en el laboratorio de la materia **Transferencia de calor** o su equivalente. Se ha agregado un dispositivo más que es económico y puede ser armado por cualquier persona con conocimientos básicos de electrónica y programación.
 
 También es parte de este LMTC:
 + Guía de prácticas del LMTC
