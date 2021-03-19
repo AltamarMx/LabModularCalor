@@ -13,5 +13,5 @@ En la plataforma, se puede encontrar el tablero de cada LMTC. Estos tableros ser
 Para tener un tablero se debe solicitar con anticipación y se le hará llegar al solicitante la liga para visualizar los datos junto con  _token_ y un _id_ para poder descargar los datos, si así lo desean.
 
 <img src="https://github.com/AltamarMx/LabModularCalor/blob/main/dispositivos/img/dashboards.png"
-     alt=“DashBoard”
-     width=“70%" />
+     alt=“Login”
+     width="50%" />
