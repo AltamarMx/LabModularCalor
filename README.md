@@ -1,7 +1,7 @@
 # Laboratorio Modular de Transferencia de Calor
 
 
-En este repositorio contiene toda la información relacionada para usar, replicar o mejorar el  **Laboratorio Modular de Transferencia de Calor** (LMTC) desarrollado en el Instituto de Energías Renovables con el apoyo del proyecto PAPIME  **PE112318**
+Este repositorio contiene toda la información relacionada para usar, replicar o mejorar el  **Laboratorio Modular de Transferencia de Calor** (LMTC) desarrollado en el Instituto de Energías Renovables con el apoyo del proyecto PAPIME  **PE112318**.
 
 El LMTC consiste originalmente en tres dispositivos modulares para realizar diversas prácticas en el laboratorio de la materia **Transferencia de calor** o su equivalente. Se ha agregado un dispositivo más que es económico y puede ser armado por cualquier persona con conocimientos básicos de electrónica y programación.
 
