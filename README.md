@@ -3,7 +3,6 @@ El  **Laboratorio Modular de Transferencia de Calor** (LMTC) consiste originalme
 
 También es parte de este LMTC:
 + Guía de prácticas del LMTC
-+ Guía de uso de los dispositivos
 + Este repositorio con el código y lo necesario para duplicar este LMTC
 
 
