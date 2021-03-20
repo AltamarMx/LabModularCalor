@@ -8,26 +8,23 @@ Material:
 * 1 Fuente radiativa (foco incandescente, vela, encendedor )
 
 
+
 Instrucciones:
-Arma el arreglo experimental como se muestra en la figura anexa, coloca cada uno de los dispositivos de condición de frontera a temperaturas diferentes y valores constantes. Coloca dos sensores de flujo de calor y dos termopares como se indica en la figura.
+Arma el arreglo experimental como se muestra en la figura anexa, coloca el sensor de flujo de calor a una distancia d con la superficie perpendicular a la línea imaginaria que une a la superficie y a la fuente.
+
 
 <img src="https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/img/intercambio_radiativo_esquema.jpeg"
      alt=“Login”
      width="50%" />
 
 
+Mide el flujo de calor que registra el sensor a diferentes distancias.
+Cambia la orientación del sensor hacia la fuente de luz y mide otra vez el flujo de calor
+a las mismas distancias.
 
-Visualiza los valores de temperatura y flujo de calor en el dispositivo de adquisición y visualización de datos o en la platoaforma IoT.
-Una vez que el sistema ha alcanzado el estado permanente usa esos valores de temperatura y flujo de calor para calcular la conductividad térmica usando la siguiente ecuación:
+Actividades:
+* Grafica el flujo de calor como función de la distancia para una orientación del sensor ¿Qué observas ?
+* Grafica el flujo de calor a una distancia y diferentes orientaciones ¿Qué observas?
 
-q/A  = k dT / L
-
-donde q es el flujo de calor, A es el área de la muestra, k la conductividad térmica, dT la diferencia de temperatura entre las superficies y L el espesor de la muestra.
-
-Una vez que el experimento ha alcanzado el estado permanente, saca promedios de las lecturas durante el estado permanente , y repite para otra muestra.
-Reporta los valores obtenidos para las dos muestras y comenta si los resultados son los esperados.
-
-Actividades sugeridas:
-* Demuestra con los valores de temperatura que el sistema ha alcanzado el estado permanente.
-* Demuestra utilizando los sensores de flujo de calor, que el sistema ha alcanzado el estado permanente.
-* Calcula y grafica la derivada temporal de la temperatura respecto al tiempo y comenta el comportamiento.
+Actividades sugerias:
+* ¿Qué mediciones necesitas para poder calcular el factor de vista en este experimento? 
