@@ -16,4 +16,4 @@ Prácticas sugeridas:
 4. [Coeficiente convectivo](https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/coeficiente_convectivo.md)
 5. [Evaluación de disipadores de calor](https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/evaluacion_intercambiador.md)
 6. [Intercambio radiativo](https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/intercambio_radiativo.md)
-7.
+7. [Absortancia solar]()
