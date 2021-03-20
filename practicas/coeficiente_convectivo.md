@@ -1,13 +1,37 @@
-Objetivo: Identificar el efecto de la masa térmica en dos materiales del mismo espesor y diferente densidad.
+Esta práctica tiene como finalidad comprobar el efecto de la velocidad del viento sobre la transferencia de calor y el coeficiente convectivo en una superficie bajo condiciones de flujo de calor constante. Para esto el estudiante puede utilizar un sensor de temperatura y un sensor de flujo de calor.
+Material:
+1 dispositivos de medición
+1 dispositivo de adquisición
+1 dispositivo de condición de frontera
+1 ventilador con velocidad diferentes niveles de velocidad
+Pasta térmica para unir las piezas
+Instrucciones:
+Arma el arreglo experimental como se muestra en la Figura 4, coloca el dispositivo de condición de frontera a una potencia constante y pega a la superficie un sensor de temperatura y mide también la temperatura ambiente y coloca un sensor de flujo de calor. Visualiza los valores de temperatura y flujo de calor en los dispositivos de adquisición. Varía la velocidad del ventilador, calcula el coeficiente convectivo usando la formula:
+q/A = h dT
+donde q es el flujo de calor, A es el área del termoeléctrico, h el coeficiente convectivo y dT la diferencia de temperatura entre la superficie y el ambiente.
+
+Figura 5. Arreglo experimental para medir el coeficiente convectivo.
+
+Realiza las siguientes actividades:
+Calcula el coeficiente convectivo para diferentes valores de la velocidad del ventilador.
+Grafica el flujo de calor y la temperatura de la superficie, describe y justifica su comportamiento para los diferentes experimentos.
+Utiliza una correlación del coeficiente convectivo para determinar de manera indirecta la velocidad del viento.
+
+
+
+
+
+
+
+Objetivo: Analizar el efecto del viento en el coeficiente convectivo.
 
 
 
 Material:
 * 1 Dispositivo de adquisición y visualización de datos o Plataforma IoT
 * 1 Dispositivo para medir temperatura y flujo de calor
-* 2 dispositivos de condición de frontera a temperatura constante
-* 2 muestras de diferente material que sea notable la diferencia de densidad de  1" x 1" con espesor de máximo 1 cm y ambas del mismo espesor.
-* Pasta térmica para unir las piezas
+* 1 Dispositivos de condición de frontera a temperatura constante
+* 1 Ventilador
 
 Instrucciones:
 
@@ -30,4 +54,4 @@ Realiza las siguientes actividades:
 
 Actividades sugeridas:
 * Cálcula la derivada de la temperatura a lo largo del tiempo y compara los valores que obtienes
-* Ajusta una exponencial y compara la tasas de crecimiento de ambos experimentos ¿Qué relación observas con la densidad? 
+* Ajusta una exponencial y compara la tasas de crecimiento de ambos experimentos ¿Qué relación observas con la densidad?
