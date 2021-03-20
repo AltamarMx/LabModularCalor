@@ -10,7 +10,16 @@ Material:
 * Pasta térmica para unir las piezas
 
 Instrucciones:
-Consigue 2 intercambiadores de calor diferentes, es importante que sea diferentes.
+Consigue 2 intercambiadores de calor diferentes, es importante que sea diferentes como los mostrados a continuación:
+
+<img src="https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/img/disipador1.jpg"
+     alt=“Login”
+     width="40%" />
+
+ <img src="https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/img/disipador2.png"
+      alt=“Login”
+      width="40%" />
+
 
 Arma el arreglo experimental como se muestra en la figura anexa,  establece la celda Peltier a temperatura constantes. Coloca el sensor de flujo de calor.
 
