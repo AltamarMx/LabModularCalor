@@ -9,7 +9,7 @@ Si se cuenta con una conexión a internet inalámbrica, el dispositivo para medi
 
 
 
-En la plataforma, se puede encontrar el tablero de cada LMTC. Estos tableros serán públicos. 
+En la plataforma, se puede encontrar el tablero de cada LMTC. Estos tableros serán públicos.
 Para tener un tablero se debe solicitar con anticipación y se le hará llegar al solicitante la liga para visualizar los datos junto con  _token_ y un _id_ para poder descargar los datos, si así lo desean.
 
 <img src="https://github.com/AltamarMx/LabModularCalor/blob/main/dispositivos/img/dashboards.png"
@@ -21,3 +21,5 @@ Si se desea agregar un dispositivo y crear un tablero de visualización, solicit
 gbv(at)ier.unam.mx
 
 Para descargar los datos de la plataforma, descarga [esta](XXX) libreta y ve [este](https://youtu.be/HVo-CkrcODo) video.
+
+Los usuarios 
