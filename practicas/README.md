@@ -12,7 +12,7 @@ Te invito a ti, a proponer una práctica y hacer crecer esta sección del LMTC.
 Prácticas sugeridas:
 1. [Cálculo de la conductividad térmica de una placa](https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/conductividad_termica.md)
 2. [Cálculo la resistencia térmica y perfil de temperatura en estado estacionario](https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/resistencia_termica.md)
-3.
+3. [Efecto de la masa térmica en materiales del mismo espesor y diferente densidad](https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/masa_termica.md)
 4.
 5.
 6.
