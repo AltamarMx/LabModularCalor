@@ -14,6 +14,6 @@ Prácticas sugeridas:
 2. [Cálculo la resistencia térmica y perfil de temperatura en estado estacionario](https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/resistencia_termica.md)
 3. [Efecto de la masa térmica en materiales del mismo espesor y diferente densidad](https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/masa_termica.md)
 4. [Coeficiente convectivo](https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/coeficiente_convectivo.md)
-5.
+5. [Evaluación de disipadores de calor](https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/evaluacion_intercambiador.md)
 6.
 7.
