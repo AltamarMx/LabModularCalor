@@ -40,7 +40,7 @@ termopares como se indica en la figura.
 
 
 
-<img src="https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/img/conductividad_esquema.jpeg"
+<img src="https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/img/coeficiente_convectivo_esquema.jpeg"
      alt=“Login”
      width="40%" />
 
