@@ -26,5 +26,5 @@ Actividades:
 * Grafica el flujo de calor como función de la distancia para una orientación del sensor ¿Qué observas ?
 * Grafica el flujo de calor a una distancia y diferentes orientaciones ¿Qué observas?
 
-Actividades sugerias:
-* ¿Qué mediciones necesitas para poder calcular el factor de vista en este experimento? 
+Actividades sugeridas:
+* ¿Qué mediciones necesitas para poder calcular el factor de vista en este experimento?
