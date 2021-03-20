@@ -11,7 +11,7 @@ Material:
 Instrucciones:
 Arma el arreglo experimental como se muestra en la figura anexa, coloca cada uno de los dispositivos de condición de frontera a temperaturas diferentes y valores constantes. Coloca dos sensores de flujo de calor y dos termopares como se indica en la figura.
 
-<img src="https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/img/conductividad_esquema.jpeg"
+<img src="https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/img/intercambio_radiativo_esquema.jpeg"
      alt=“Login”
      width="40%" />
 
