@@ -14,7 +14,7 @@ Arma el arreglo experimental como se muestra en la figura anexa, coloca cada uno
 
 <img src="https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/img/conductividad_esquema.jpeg"
      alt=“Login”
-     width="20%" />
+     width="30%" />
 
 
 
