@@ -15,7 +15,7 @@ Los dispositivos están documentados [aquí](https://github.com/AltamarMx/LabMod
 
 1. [**_Dispositivo de adquisición y visualización de datos_**:](https://github.com/AltamarMx/LabModularCalor/blob/main/dispositivos/d1.md) Es una RaspBerry Pi con una plataforma IoT instalada y configurada como servidor. Es útil en caso de no contar con internet y una conexión inalámbrica, se puede utilizar este dispositivo para que sirva de adquisición y visualización de datos en tiempo real. Si se cuenta con internet, se puede solicitar la alta del dispositivo al correo gbv@ier.unam.mx para que se proporcione una liga a un tablero de visualización de datos.
 
-2.  **[_Dispositivo para medir temperatura y flujo de calor_**:](https://github.com/AltamarMx/LabModularCalor/blob/main/dispositivos/d2.md) Cuenta con 4 termopares tipo T y un sensor de flujo de calor que envia los datos medidos a una plataforma de IoT que puede ser el dispositivo anterior o una plataforma puesta en línea para este laboratorio.
+2.  [**_Dispositivo para medir temperatura y flujo de calor_**:](https://github.com/AltamarMx/LabModularCalor/blob/main/dispositivos/d2.md) Cuenta con 4 termopares tipo T y un sensor de flujo de calor que envia los datos medidos a una plataforma de IoT que puede ser el dispositivo anterior o una plataforma puesta en línea para este laboratorio.
 
 3. [**_Dispositivo para generar condiciones de frontera_**:](https://github.com/AltamarMx/LabModularCalor/blob/main/dispositivos/d3.md)  Consiste en un microcontrolador con una celda Peltier que puede producir una condición de temperatura constante en el tiempo o que varie de forma sinusoidal.
 
