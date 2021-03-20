@@ -15,7 +15,7 @@ Arma el arreglo experimental como se muestra en la figura anexa, coloca cada uno
 
 <img src="https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/img/resistencia_esquema.jpeg"
      alt=“Login”
-     width="40%" />
+     width="45%" />
 
 
 
