@@ -3,14 +3,22 @@ Objetivo: Medir la conductividad térmica de diferentes muestras de materiales h
 
 
 Material:
-1 Dispositivo de adqusición y visualización de datos o Plataforma IoT
-1 Dispositivo para medir temperatura y flujo de calor
-2 dispositivos de condición de frontera a temperatura constante
-2 muestras de diferente material de  1" x 1" con espesor de máximo 1 cm
-Pasta térmica
+* 1 Dispositivo de adqusición y visualización de datos o Plataforma IoT
+* 1 Dispositivo para medir temperatura y flujo de calor
+* 2 dispositivos de condición de frontera a temperatura constante
+* 2 muestras de diferente material de  1" x 1" con espesor de máximo 1 cm
+* Pasta térmica para unir las piezas
 
 Instrucciones:
-Arma el arreglo experimental como se muestra en la Figura 1, coloca cada uno de los dispositivos de condición de frontera a temperaturas diferentes y valores constantes. Coloca dos sensores de flujo de calor y dos termopares como se indica en la figura. Visualiza los valores de temperatura y flujo de calor en los dispositivos de adquisición. Una vez que el sistema ha alcanzado el estado permanente usa esos valores de temperatura y flujo de calor para calcular la conductividad térmica usando la siguiente ecuación:
+Arma el arreglo experimental como se muestra en la figura anexa, coloca cada uno de los dispositivos de condición de frontera a temperaturas diferentes y valores constantes. Coloca dos sensores de flujo de calor y dos termopares como se indica en la figura.
+
+<img src="https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/img/conductividad_esquema.jpeg"
+     alt=“Login”
+     width="20%" />
+
+
+
+ Visualiza los valores de temperatura y flujo de calor en los dispositivos de adquisición. Una vez que el sistema ha alcanzado el estado permanente usa esos valores de temperatura y flujo de calor para calcular la conductividad térmica usando la siguiente ecuación:
 q/A = k dT / L
 donde q es el flujo de calor, A es el área de la muestra, k la conductividad térmica, dT la diferencia de temperatura entre las superficies y L el espesor de la muestra.
 Experimento 1: Medición de la conductividad térmica
