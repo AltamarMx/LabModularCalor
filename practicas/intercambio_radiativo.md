@@ -1,13 +1,12 @@
-Objetivo: Medir la conductividad térmica de diferentes muestras de materiales homogénes de una sola capa.
+Objetivo: Evaluar el intercambio radiativo como función de la distancia de la fuente radiativa a un punto.
 
 
 
 Material:
 * 1 Dispositivo de adquisición y visualización de datos o Plataforma IoT
 * 1 Dispositivo para medir temperatura y flujo de calor
-* 2 dispositivos de condición de frontera a temperatura constante
-* 2 muestras de diferente material de  1" x 1" con espesor de máximo 1 cm
-* Pasta térmica para unir las piezas
+* 1 Fuente radiativa (foco incandescente, vela, encendedor )
+
 
 Instrucciones:
 Arma el arreglo experimental como se muestra en la figura anexa, coloca cada uno de los dispositivos de condición de frontera a temperaturas diferentes y valores constantes. Coloca dos sensores de flujo de calor y dos termopares como se indica en la figura.
