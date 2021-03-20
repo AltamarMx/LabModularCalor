@@ -25,8 +25,10 @@ q/A  = k dT / L
 
 donde q es el flujo de calor, A es el área de la muestra, k la conductividad térmica, dT la diferencia de temperatura entre las superficies y L el espesor de la muestra.
 
-Una vez que el experimento ha alcanzado el estado permanente, saca promedios de las lecturas, y repite para otra muestra. Reporta los valores obtenidos para las dos muestras y comenta si los resultados son los esperados.
-Realiza las siguientes actividades:
-Demuestra con los valores de temperatura que el sistema ha alcanzado el estado permanente.
-Demuestra utilizando los sensores de flujo de calor, que el sistema ha alcanzado el estado permanente.
-Calcula y grafica la derivada temporal de la temperatura respecto al tiempo y comenta el comportamiento.
+Una vez que el experimento ha alcanzado el estado permanente, saca promedios de las lecturas durante el estado permanente , y repite para otra muestra.
+Reporta los valores obtenidos para las dos muestras y comenta si los resultados son los esperados.
+
+Actividades sugeridas:
+* Demuestra con los valores de temperatura que el sistema ha alcanzado el estado permanente.
+* Demuestra utilizando los sensores de flujo de calor, que el sistema ha alcanzado el estado permanente.
+* Calcula y grafica la derivada temporal de la temperatura respecto al tiempo y comenta el comportamiento.
