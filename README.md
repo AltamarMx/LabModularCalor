@@ -30,11 +30,11 @@ cuenta con 4 sensores digitales de temperatura pero se pueden agregar más. Solo
 
 Este repositorio contiene toda la información relacionada para usar, replicar o mejorar el  **Laboratorio Modular de Transferencia de Calor** (LMTC) desarrollado en el Instituto de Energías Renovables con el apoyo del proyecto PAPIME  **PE112318**.
 
-El LMTC ha tenido los siguientes participantes:
+El LMTC ha tenido los siguientes participantes, por orden histórico de participación:
 
 1. Arturo García García
-2. Yanik Saucedo Cordero
-3. [Clarisa Betancourt García](https://github.com/lcbeg)
+2. [Clarisa Betancourt García](https://github.com/lcbeg)
+3. Yanik Saucedo Cordero
 4. Edgar Gallardo
 5. [Guillermo Ramírez Zúñiga](https://github.com/ramzug)
 6. [Guillermo Barrios del Valle] (https://github.com/AltamarMx)
