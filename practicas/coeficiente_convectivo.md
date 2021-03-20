@@ -42,7 +42,7 @@ termopares como se indica en la figura.
 
 <img src="https://github.com/AltamarMx/LabModularCalor/blob/main/practicas/img/coeficiente_convectivo_esquema.jpeg"
      alt=“Login”
-     width="40%" />
+     width="50%" />
 
 Una vez   que está armado el experimento, comienza a medir la temperatura en los puntos indicados. Una vez que veas que el sistema se encuentra en estado permanente, establece las celdas Peltier a la misma
 potencia en un valor constante y préndelas.  Mide la evolución de la temperatura y el flujo de de calor a lo largo del tiempo. Cambia la muestra por otra de diferente densidad y mismo espesor y repite el experimento.
