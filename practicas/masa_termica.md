@@ -20,16 +20,14 @@ termopares como se indica en la figura.
      alt=“Login”
      width="40%" />
 
-Visualiza los valores de temperatura y flujo de calor en los dispositivos de adquisición. Una vez que el sistema ha alcanzado el estado permanente usa esos valores de temperatura y flujo de calor para calcular la resistencia térmica usando la siguiente ecuación:
-
-q/A = dT /  Rt
-
-donde q es el flujo de calor, A es el área de la muestra, dT la diferencia de temperatura entre las superficies y Rt la resistencia térmica de la muestra.
+Una vez   que está armado el experimento, comienza a medir la temperatura en los puntos indicados. Una vez que veas que el sistema se encuentra en estado permanente, establece las celdas Peltier a la misma
+potencia en un valor constante y préndelas.  Mide la evolución de la temperatura y el flujo de de calor a lo largo del tiempo. Cambia la muestra por otra de diferente densidad y mismo espesor y repite el experimento.
 
 Realiza las siguientes actividades:
-Establece la temperatura de las celdas Peltier a diferentes temperaturas y calcula para cada dT la resistencia térmica y grafica este valor. ¿Qué observas?
+* Compara las mediciones de temperatura a lo largo del tiempo para los dos experimentos ¿Qué observas?
+* Compara las mediciones de flujo de calor a lo largo del tiepmo para los dos experimentos ¿Qué observas?
 
 
 Actividades sugeridas:
-* Calcula y grafica el perfil de temperatura que debe tener una muestra con una resistencia térmica equivalente, grafica y compara con los datos experimentales y comenta las semejanzas o diferencias.
-* Intercambia el orden de las muestras y vuelve a realizar los experimentos.
+* Cálcula la derivada de la temperatura a lo largo del tiempo y compara los valores que obtienes
+* Ajusta una exponencial y compara la tasas de crecimiento de ambos experimentos ¿Qué relación observas con la densidad? 
