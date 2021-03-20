@@ -37,4 +37,4 @@ El LMTC ha tenido los siguientes participantes, por orden histórico de particip
 3. Yanik Saucedo Cordero
 4. Edgar Gallardo
 5. [Guillermo Ramírez Zúñiga](https://github.com/ramzug)
-6. [Guillermo Barrios del Valle] (https://github.com/AltamarMx)
+6. [Guillermo Barrios del Valle](https://github.com/AltamarMx)
