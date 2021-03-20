@@ -10,10 +10,10 @@ de Calor_ o su similar.
 Te invito a ti, a proponer una práctica y hacer crecer esta sección del LMTC.
 
 Prácticas sugeridas:
-1.
+1. [Cálculo de la conductividad térmica de una placa]()
 2.
 3.
 4.
 5.
 6.
-7. 
+7.
