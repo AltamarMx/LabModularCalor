@@ -22,4 +22,3 @@ gbv(at)ier.unam.mx
 
 Para descargar los datos de la plataforma, instala el paquete [iertools.tb](https://github.com/AltamarMx/iertools) paquete y ve [este](https://youtu.be/HVo-CkrcODo) video.
 
-Los usuarios 
